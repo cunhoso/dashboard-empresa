@@ -20,5 +20,5 @@ Este projeto acadêmico é um dashboard de controle empresarial desenvolvido com
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/cunhoso/dashboard-empresarial
+   git clone https://github.com/cunhoso/dashboard-empresa
    cd dashboard-empresarial
