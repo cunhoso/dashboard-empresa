@@ -22,3 +22,10 @@ Este projeto acadêmico é um dashboard de controle empresarial desenvolvido com
    ```bash
    git clone https://github.com/cunhoso/dashboard-empresa
    cd dashboard-empresarial
+
+## Alunos Participantes
+
+- Daniel dos Santos da Silva 202220038
+- Eduardo Felipe de Lima Rebello 202222264
+- João da Silva Alves Cunha 202211713
+- Paulo Eduardo Fernandes de Siqueira Coelho 202212248
